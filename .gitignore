@@ -1,0 +1,19 @@
+# --- Large Data Files ---
+# Ignore the dataset because it is too large for GitHub (>50MB)
+emi_prediction_dataset.csv
+
+# --- Python System Files ---
+# Ignore compiled python files (junk)
+__pycache__/
+*.pyc
+
+# --- Virtual Environments ---
+# If you created a virtual environment, ignore it
+venv/
+env/
+.env
+
+# --- IDE Settings ---
+# Ignore VS Code or PyCharm setting folders
+.vscode/
+.idea/
