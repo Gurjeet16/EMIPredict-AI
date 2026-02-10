@@ -132,7 +132,7 @@ if artifacts:
         # ==========================================
         # 4. RESULTS DISPLAY
         # ==========================================
-        st.divider()
+        st.markdown("---")
         st.subheader("Risk Assessment Results")
 
         col1, col2 = st.columns(2)
